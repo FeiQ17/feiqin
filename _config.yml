@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Fei Qin"
-  avatar           : "profile.png"
+  avatar           : "IMG_4017.jpg"
   bio              : "Ph.D. candicate in Agricultural Economics at Purdue University"
   location         : "West Lafayette"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bkEgihsAAAAJ&hl=en"
-  email            :
+  email            : qin132@purdue.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
