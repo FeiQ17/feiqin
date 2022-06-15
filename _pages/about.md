@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "Fei Qin"
 author_profile: true
 redirect_from: 
   - /about/
