@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FeiQ17"
+  github           : #"FeiQ17"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "FeiQin2"
+  twitter          : #"FeiQin2"
   vine             :
   weibo            :
   xing             :
