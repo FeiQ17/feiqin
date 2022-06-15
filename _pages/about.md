@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am Fei Qin, a Ph. D. candidate from the [Department of Agricultural Economics](https://ag.purdue.edu/department/agecon/) at Purdue University. Before came to Purdue, I earned my M.S. in Labor Economics from Shaanxi Normal University and my B.A in Finance from Xi'an Jiaotong University. During my master, I got a chance to study in University of California, Berkeley as a short-term visiting student. 
+Welcome to my website! 
+
+I am Fei Qin, a Ph. D. candidate from the [Department of Agricultural Economics](https://ag.purdue.edu/department/agecon/) at Purdue University. Before came to Purdue, I earned my M.S. in Labor Economics from Shaanxi Normal University and my B.A in Finance from Xi'an Jiaotong University. During my master, I got a chance to study in University of California, Berkeley as a short-term visiting student. 
 
 My academic work has been published or is forthcoming in International Studies Quarterly, Conflict Management and Peace Science, Political Science Research and Methods, and PS: Political Science & Politics, among other outlets. This research explores the causes and consequences of political violence using a broad variety of methods such as latent variable models, geospatial analysis, and big data. While primarily focused on civil conflict, it also examines contentious political phenomena including terrorism and economic statecraft, and develops new measures of institutions in international relations. I have teaching experience in both quantitative methodology and international relations, and am a certified instructor with The Carpentries.
 
