@@ -11,7 +11,7 @@ I am Fei Qin, a Ph. D. candidate from the [Department of Agricultural Economics]
 
 My main research interests lie in food economics, industrial organizations, and agricultural marketing. Under this broad scope, I am particularly interested in 
 
-Education
+## Education
 ======
 * Ph.D in Agricultural Economics, Purdue University, 2018-2023 (expected)
 * Master of Economics in Labor Economics, Shaanxi Normal University, 2014-2017
