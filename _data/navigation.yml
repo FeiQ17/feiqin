@@ -19,7 +19,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url:  https://github.com/FeiQ17/feiqin/files/FQin_CV.pdf
+    url: /cv/
 
   #- title: "Guide"
   #  url: /markdown/
