@@ -17,8 +17,7 @@ Education
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * BLALALALAL
 
-<embed src="feiq17.github.io/feiqin/files/FQin_CV.pdf" width="600" height="700" type='application/pdf'>
-
+<a href=“feiq17.github.io/feiqin/files/FQin_CV.pdf" target="_blank">PDF.</a>
 
 Work experience
 ======
