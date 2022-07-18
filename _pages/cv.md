@@ -15,7 +15,7 @@ Education
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* BLALALALAL
+* BUBULIUBLU
 
 <a href=“feiq17.github.io/feiqin/files/FQin_CV.pdf" target="_blank">PDF.</a>
 
