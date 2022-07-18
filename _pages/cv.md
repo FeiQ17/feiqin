@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="{{ site.baseurl }}/files/FQin_CV.pdf" width="600" height="700" type='application/pdf'>
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
