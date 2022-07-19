@@ -17,6 +17,6 @@ My primary research interests lie in agricultural economics, industrial organiza
 * Bachelor of Economics in Finance, Xi'an Jiaotong University, 2010-2014
 
 ## Contact
-* Address: 403 West State Street, Krannert Building, Room #603, West Lafayette, IN, 47907
+* <i>Address<i>: 403 West State Street, Krannert Building, Room #603, West Lafayette, IN, 47907
 * Email: qin132@purdue.edu
 * TEL: (765) 409-3381
