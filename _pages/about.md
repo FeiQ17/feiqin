@@ -13,6 +13,6 @@ My primary research interests lie in agricultural economics, industrial organiza
 
 ## Contact
 
-* <i>Address<i>: 403 West State Street, Krannert Building, Room #603, West Lafayette, IN, 47907
-* <i>Email<i>: qin132@purdue.edu
-* <i>TEL<i>: (765) 409-3381
+* **Address**: 403 West State Street, Krannert Building, Room #603, West Lafayette, IN, 47907
+* **Email**: qin132@purdue.edu
+* **TEL**: (765) 409-3381
