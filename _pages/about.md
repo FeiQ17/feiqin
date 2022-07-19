@@ -16,7 +16,10 @@ My main research interests lie in food economics, industrial organizations, and 
 * Master of Economics in Labor Economics, Shaanxi Normal University, 2014-2017
 * Bachelor of Economics in Finance, Xi'an Jiaotong University, 2010-2014
 
-
+## Contact
+* Address: 403 West State Street, Krannert Building, Room #603, West Lafayette, IN, 47907
+* Email: qin132@purdue.edu
+* TEL: (765) 409-3381
 
 My academic work has been published or is forthcoming in International Studies Quarterly, Conflict Management and Peace Science, Political Science Research and Methods, and PS: Political Science & Politics, among other outlets. This research explores the causes and consequences of political violence using a broad variety of methods such as latent variable models, geospatial analysis, and big data. While primarily focused on civil conflict, it also examines contentious political phenomena including terrorism and economic statecraft, and develops new measures of institutions in international relations. I have teaching experience in both quantitative methodology and international relations, and am a certified instructor with The Carpentries.
 
