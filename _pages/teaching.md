@@ -5,9 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Research plays a central role in my teaching as students improve their analytical skills and master the tools of data analysis through hands-on experience. I have taught undergraduate courses on political violence and statistical methodology. While at UNC, I taught the graduate statistics lab for Advanced Topics in Political Data Science, where my work was recognized by the Political Science Department’s Earle Wallace Award for Graduate Student Teaching. I also served as a teaching assistant for courses in international relations and American politics at UNC, in addition to the ICPSR Summer Program where I was a teaching assistant for a course on Bayesian modeling in the social sciences. I am also a certified instructor with The Carpentries, which develops evidence-based methods for teaching “essential data and computational skills for conducting efficient, open, and reproducible research.”
+At Purdue, I have gained valuable experience serving as a teaching assistant and as a guest lecturer. My main teaching interests are agricultural and food economics, with a special focus on agricultural markets and industrial organization. These topics may also appeal individuals from a variety of fields, such as food science. Given my research background in food market in the U.S. and China, I am confident that I can competently teach courses related to agricultural supply chain, food demand, and agricultural marketing. I also look forward to teaching a wider range of topics, including policy evaluation and applied microeconomics.
 
-You can view my teaching statement [here](https://drive.google.com/file/d/1YJ5jEWDVICZ97vVJfC_Sr9OY1hfQg30P/view?usp=sharing).
+You can view my complete teaching statement [here](https://drive.google.com/file/d/1YJ5jEWDVICZ97vVJfC_Sr9OY1hfQg30P/view?usp=sharing).
 
 ## Purdue University
 * AGEC 516: Mathematical Tools for Agricultural and Applied Economics (Fall 2021)
