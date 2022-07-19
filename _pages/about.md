@@ -12,6 +12,6 @@ I am Fei Qin, a Ph. D. candidate from the [Department of Agricultural Economics]
 My primary research interests lie in agricultural economics, industrial organizations, agricultural marketing, and development economics. Under this broad scope, I am particularly interested in two areas: 1) organizations in the food sector and their competitive strategies. The countries I have been focused on are the United States and China. I have particularly solid experience in policy evaluation and analyzing large datasets like the retailer and consumer scanner data.
 
 ## Contact
-* <b>Address<b>: 403 West State Street, Krannert Building, Room #603, West Lafayette, IN, 47907
-* Email: qin132@purdue.edu
-* TEL: (765) 409-3381
+* <i>Address<i>: 403 West State Street, Krannert Building, Room #603, West Lafayette, IN, 47907
+* <i>Email<i>: qin132@purdue.edu
+* <i>TEL<i>: (765) 409-3381
