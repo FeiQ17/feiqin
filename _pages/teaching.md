@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-At Purdue, I have gained valuable experience serving as a teaching assistant and as a guest lecturer. My main teaching interests are agricultural and food economics, with a special focus on agricultural markets and industrial organization. These topics may also appeal individuals from a variety of fields, such as food science. Given my research background in food market in the U.S. and China, I am confident that I can competently teach courses related to agricultural supply chain, food demand, and agricultural marketing. I also look forward to teaching a wider range of topics, including policy evaluation and applied microeconomics.
+At Purdue, I have gained valuable experience by serving as a teaching assistant and as a guest lecturer, and by involving in a student mentor-mentee program. My main teaching interests are agricultural and food economics, with a special focus on agricultural markets and industrial organization. These topics may also appeal individuals from a variety of fields, such as food science. Given my research background in food market in the U.S. and China, I am confident that I can competently teach courses related to agricultural supply chain, food demand, and agricultural marketing. I also look forward to teaching a wider range of topics, including policy evaluation and applied microeconomics.
 
 You can view my complete teaching statement [here](https://drive.google.com/file/d/1YJ5jEWDVICZ97vVJfC_Sr9OY1hfQg30P/view?usp=sharing).
 
