@@ -10,7 +10,7 @@ header:
 
 Besides my dissertation, I have been involved in several research projects related to the food supply chain in the U.S. and China as well as the impact evaluation of interventions on rural students in China.
 
-## Article
+## Published papers
 
 Ma, Meilin, H. Holly Wang, Yizhou Hua, Fei Qin, and Jing Yang. 2021. "African Swine Fever in China: Impacts, Responses, and Policy Implications." *Food Policy* 102: 102065. https://doi.org/10.1016/j.foodpol.2021.102065
 
