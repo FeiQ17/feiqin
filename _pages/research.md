@@ -5,13 +5,19 @@ permalink: /research/
 author_profile: true
 ---
 
-The theme in my Ph.D. Dissertation can be summarized as competitive strategies in food retail sector. The first two chapters of my Ph.D. dissertation examines the profitability of price discrimination (PD) schemes under different information environments by combining nonlinear pricing theory with machine learning (ML) techniques. Theoretical PD models typically exogenously impose consumer segments using assumptions that may or may not be reasonable for specific applications. Given advances in computing power, ML methods can now replace exogenous assumptions in forming consumer clusters that can proxy different consumer segments, making theoretical models more applicable in practice.
-
-The specific question we explore is how informationally robust price discrimination techniques are. Using Nielsen scanner data, we construct full information including consumers’ demographics and purchase history, and limited information including only demographics. We then apply K-Means clustering, which is part of the unsupervised learning methods, to segment the market. The basic idea is that consumers that are similar are assigned to a group, whereas consumers that are dissimilar are assigned to different groups. Segmenting consumers with common traits helps firms target each group in a relevant and effective way. After constructing the sample by selecting households in Nielsen Consumer scanner data, we estimate the consumer demand for yogurt products using full and limited consumer information. Applying demand estimation results to PD schemes, we show that using more information helps increase the store’s profit under second-degree PD, but does not affect the profit under third-degree PD.
+The theme in my Ph.D. Dissertation can be summarized as competitive strategies in food retail sector. 
 
 ## Chapter 1 and 2
 
+The first two chapters of my Ph.D. dissertation examines the profitability of price discrimination (PD) schemes under different information environments by combining nonlinear pricing theory with machine learning (ML) techniques. Theoretical PD models typically exogenously impose consumer segments using assumptions that may or may not be reasonable for specific applications. Given advances in computing power, ML methods can now replace exogenous assumptions in forming consumer clusters that can proxy different consumer segments, making theoretical models more applicable in practice.
+
+The specific question we explore is how informationally robust price discrimination techniques are. Using Nielsen scanner data, we construct full information including consumers’ demographics and purchase history, and limited information including only demographics. We then apply K-Means clustering, which is part of the unsupervised learning methods, to segment the market. The basic idea is that consumers that are similar are assigned to a group, whereas consumers that are dissimilar are assigned to different groups. Segmenting consumers with common traits helps firms target each group in a relevant and effective way. After constructing the sample by selecting households in Nielsen Consumer scanner data, we estimate the consumer demand for yogurt products using full and limited consumer information. Applying demand estimation results to PD schemes, we show that using more information helps increase the store’s profit under second-degree PD, but does not affect the profit under third-degree PD.
+
 ## Chapter 3
+
+Qin, Fei, and Meilin Ma. "Unit Pricing Regulation and Assortment Competition: Ecidence from the U.S. Yogurt Market."
+
+Unit Pricing Regulation (UPR) was introduced to help consumers make more informed decisions by displaying unit prices in addition to product prices. Despite extensive research on UPR effects on consumers’ perceptions and decisions, much less is known about the impacts on retail stores’ price and non-price responses under intensified price competition brought by UPR. In this chapter, relying on the geographic variation in UPR implementation across states, we identify UPR impacts on the store’s product offerings and pricing. Results show that mass merchandizers remove products without changing prices, whereas grocery stores without same-chain peer stores not under UPR add brands and charge higher prices on average. Using a structural demand model, we find that, on average, consumer welfare falls for both retail formats, highlighting an unintended policy effect.
 
 # Other projects
 
