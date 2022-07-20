@@ -37,7 +37,7 @@ Qin, Fei, Huanmin Hu, Prashant Loyalka, Sarah-Eve Dill, and Scott Rozelle. 2022.
 
 [Article](https://doi.org/10.1080/19439342.2022.2067890){: .btn--research}
 
-## Working papers
+## Working paper
 
 Ma, Meilin, Jayson L. Lusk, and Fei Qin. "Retailers’ Product Assortment Decisions during the Great Recession: Evidence from the U.S. Yogurt Market" Available at SSRN: [https://ssrn.com/abstract=3927353](https://ssrn.com/abstract=3927353)
 
