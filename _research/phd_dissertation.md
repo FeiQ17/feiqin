@@ -1,24 +1,21 @@
 ---
 title: "Dissertation"
 layout: single-portfolio
+excerpt: "<img src='/images/research/Agreement-Strength.png' alt=''>"
 collection: research
 order_number: 10
+header: 
+  og_image: "research/Agreement-Strength.png"
 ---
 
-In this research I ask why some rebel groups fight for secession and independence, while others are willing to use violence to secure more autonomy and self-governance within an existing state. I argue that because rebel groups are strategic actors, they realize that military victory or plebiscite is not the end of their political struggle; if they gain independence, they must then create a new state. States are territorial entities, and so the trajectory of any new state will be greatly influenced by the resources and challenges its territory holds. Knowing this, rebel groups whose territory is more conducive to governance and administration will push for independence, while groups whose territory is less suited will fight for autonomy within the state. However, governments are aware of which groups inhabit territories most suitable to secession and employ various measures to try and stop these conflicts before they can begin, such as China’s pervasive electronic tracking of Uyghur citizens in Xinjiang.
+In my dissertation,
 
-To test these arguments, I focus on rebel movements tied to ethnic groups with defined homelands. By doing so, I am able to exploit geospatial data on population and government activity to compare the governability of subnational territories cross-nationally. I also explore the temporal dynamics of these phenomena in smaller scale studies focusing on different government preemption tactics. I explore how states actually conduct this surveillance of their populations, using an agent-based model to predict when these monitoring efforts are likely to fail. Such simulation based approaches help us understand the role that information and communication technology can play in helping governments main control of restive regions.
+## Chapter 1 and 2
 
-## Article
 
-Rob Williams. "Turning the Lights on to Keep Them in the Fold: How Governments Preempt Secession Attempts." *Conflict management and Peace Science*.
 
-> There are many regions that meet the necessary conditions for sovereign governance in the world, but few secessionist conflicts. I argue that this relative paucity of secessionist violence is the result of government preemption of potential secessionist movements. Using cross-national geospatial data from 1992 to 2013, I find that governments invest more, measured via nighttime light emissions, in more secession-prone regions. The same factors that make territory attractive for secession, such as large populations and international borders, also make governments willing to work to retain control of that territory, contributing to the scarcity of separatist civil conflicts.
+## Chapter 3
 
-[Article](https://doi.org/10.1177/07388942211015242){: .btn--research} [Preprint](/files/pdf/research/Turning the Lights on.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Turning the Lights on SI.pdf){: .btn--research} [Replication Archive](https://journals.sagepub.com/doi/suppl/10.1177/07388942211015242){: .btn--research} [GitHub Repo](https://github.com/jayrobwilliams/conflict-preemption){: .btn--research}
+Qin, Fei, and Meilin Ma. "Unit Pricing Regulation and Assortment Competition: Ecidence from the U.S. Yogurt Market."
 
-## Manuscript in preparation
-
-Rob Williams. "Keeping a Lid on it: How Government efforts to Prevent Secession Attempts can Fail." Presented at the International Studies Association Annual Convention, Toronto, ON, March 2019.
-
-> Secessionist conflicts are likely to begin in specific types of places: those with abundant resources located far from the centers of state power. These factors affect the likelihood of secessionist conflict because dissidents will only rebel when they expect to be able to form a functional state within the borders of their territory following independence. There is a strong link between oil and secessionist conflict, but oil is far from the only resource a state can rely on. There are many regions that meet the necessary conditions for sovereign governance in the world, but few secessionist conflicts. I argue that this relative paucity of secessionist violence is the result of government preemption of potential secessionist movements. What strategies do governments use to try and preempt secession attempts by aggrieved minorities? What determines when they prefer to employ carrots vs sticks? Finally, what explains why these efforts break down allowing the onset of secessionist conflict? I argue that when discontinuous shifts in the resources available to ethnic groups within territories occur and governments' capabilities to monitor those territories prevent them from quickly updating their information, dissidents capitalize on this private information and initiate conflict. I investigate these dynamics with an agent based model of government surveillance and preemption strategies, studying the effect of exogenous shocks on resources within ethnic group territories on the likelihood of conflict onset. By varying how quickly the government is able to update its information in response to changes in ethnic group territories, I model the effect of government intelligence quality on the likelihood of conflict. These insights are combined with qualitative case study evidence to illustrate how failure in government preemption strategies can lead to secessionist conflict.
+> Unit Pricing Regulation (UPR) was introduced to help consumers make more informed decisions by displaying unit prices in addition to product prices. Despite extensive research on UPR effects on consumers’ perceptions and decisions, much less is known about the impacts on retail stores’ price and non-price responses under intensified price competition brought by UPR. In this chapter, relying on the geographic variation in UPR implementation across states, we identify UPR impacts on the store’s product offerings and pricing. Results show that mass merchandizers remove products without changing prices, whereas grocery stores without same-chain peer stores not under UPR add brands and charge higher prices on average. Using a structural demand model, we find that, on average, consumer welfare falls for both retail formats, highlighting an unintended policy effect.
