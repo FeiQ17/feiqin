@@ -8,7 +8,7 @@ header:
   og_image: "research/epr.png"
 ---
 
-Besides my dissertation, I have been involved in several research projects related to food supply chain in the U.S. and China.
+Besides my dissertation, I have been involved in several research projects related to the food supply chain in the U.S. and China as well as the impact evaluation of interventions on rural students in China.
 
 ## Article
 
