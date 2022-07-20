@@ -18,3 +18,13 @@ In another work titled “Retailers’ Product Assortment Decisions During the G
 Collaborating with researchers at USDA, I have worked with Dr. Joseph Balagtas on a project about the Covid-19 effcts on U.S. meat market. In the work in progress titled “Consumer Demand for Food at Home and Food Away from Home and Implications for Derived Demand for Agricultural Commodities”, a paper in 2022 AAEA invited paper session, we empirically explore the differential effects of supply disruptions and food-service shock on retail Food at Home (FAH) meat prices. It is shown that sharp increase in inflation in 2021 and 2022 was largely caused by rapidly rising food prices, especially meat prices. The IRI scanner data show large increases in prices and FAH quantities for beef, pork and poultry. The expenditure and traffics from NPD data show the dramatic decrease in demand for food service after the stay-at-home order was in effect. From the supply side, we see a huge reduction in meat slaughter in summer 2020. We quantify the disruption of food-service on prices of the three meat products. We show that supply disruptions in beef packing industry led to higher prices in March to May of 2020, with little impact in the rest of the year. For pork, the increased production in mid-late summer in 2020 helped reduce prices.
 
 My future research will continue to focus on competitive strategies of organizations in the retail sector using scanner data. Specifically, I am interested in how the store adjusts their product assortment and prices across different product categories in response to policies/regulations or shocks in the local market. Moreover, I intend to further explore the heterogeneous welfare impacts on consumers due to a certain regulation/policy since it is important to know which income levels suffer or benefit most. Besides, I am particularly interested in studying umbrella branding strategies of multi-product firms and the corresponding welfare effects under different market structures.
+
+<nbsp>
+
+{% include base_path %}
+
+{% assign ordered_pages = site.research | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
