@@ -12,13 +12,13 @@ Besides my dissertation, I have been involved in several research projects relat
 
 ## Published papers
 
-Ma, Meilin, H. Holly Wang, Yizhou Hua, Fei Qin, and Jing Yang. 2021. "African Swine Fever in China: Impacts, Responses, and Policy Implications." *Food Policy* 102: 102065. https://doi.org/10.1016/j.foodpol.2021.102065
+Ma, Meilin, H. Holly Wang, Yizhou Hua, Fei Qin, and Jing Yang. 2021. "African Swine Fever in China: Impacts, Responses, and Policy Implications." *Food Policy* 102: 102065. [https://doi.org/10.1016/j.foodpol.2021.102065](https://doi.org/10.1016/j.foodpol.2021.102065)
 
 > African Swine Fever broke out in China in August 2018 and has caused a substantial loss to China’s hog industry. Pork is the dominant meat in the Chinese diet with its price being a critical component of China’s Consumer Price Index. In 2019, large increases in the pork price caused by the sharp reduction in pork supply incentivized the government to suppress the price by subsidizing large-scale hog farms. With an updated estimation of China’s meat demand, we argue that the ongoing policy interventions may not be the most efficient for achieving short-run reductions in the pork price. Subsidizing the production of chicken, a major substitute for pork and currently accounting for a relatively small share of meat consumption in China, could help suppress the pork price faster and at lower government costs. We estimate price dynamics and compute consumer surplus of multiple subsidy plans over a 30-month window from the third quarter of 2019 to the last quarter of 2021. Simulation outcomes suggest that allocating some subsidies from hog to chicken farms is likely to benefit consumers, producers, and the government. Our novel proposal of expanding production of a substitute meat to help lower the pork price after a large loss of the hog stock may be useful to other countries that suffer or may suffer from severe livestock losses due to animal epidemics.
 
 [Article](https://doi.org/10.1016/j.foodpol.2021.102065){: .btn--research}
 
-Qin, Fei, Huanmin Hu, Prashant Loyalka, Sarah-Eve Dill, and Scott Rozelle. 2022. "Stuck in the Middle School Rut: Can Anything Improve Academic Achievement in Rural Chinese Middle Schools?." *Journal of Development Effectiveness* https://doi.org/10.1080/19439342.2022.2067890
+Qin, Fei, Huanmin Hu, Prashant Loyalka, Sarah-Eve Dill, and Scott Rozelle. 2022. "Stuck in the Middle School Rut: Can Anything Improve Academic Achievement in Rural Chinese Middle Schools?." *Journal of Development Effectiveness* [https://doi.org/10.1080/19439342.2022.2067890](https://doi.org/10.1080/19439342.2022.2067890)
 
 > Academic achievement in middle schools in rural China remains poor for many students. This study examines whether programmes and interventions can improve academic achievement by reviewing rigorous experimental evaluations of nine programmes (11 interventions) on 47,480 rural middle school students in China. The results find none of the interventions improved academic achievement. Moreover, we find no evidence for heterogeneous treatment effects by student gender, age or previous academic achievement. These results may be due in part to the academically-demanding nature of the middle school curriculum, which is applied universally to students with varying levels of cognitive ability.
 
@@ -26,7 +26,7 @@ Qin, Fei, Huanmin Hu, Prashant Loyalka, Sarah-Eve Dill, and Scott Rozelle. 2022.
 
 ## Working papers
 
-Ma, Meilin, Jayson L. Lusk, and Fei Qin. "Retailers’ Product Assortment Decisions during the Great Recession: Evidence from the U.S. Yogurt Market" Available at SSRN: https://ssrn.com/abstract=3927353
+Ma, Meilin, Jayson L. Lusk, and Fei Qin. "Retailers’ Product Assortment Decisions during the Great Recession: Evidence from the U.S. Yogurt Market" Available at SSRN: [https://ssrn.com/abstract=3927353](https://ssrn.com/abstract=3927353)
 
 > Despite extensive research on retailers’ price responses to demand shocks, much less is known about their non-price adjustments. Using heterogeneity in timing, location, and magnitude of income and wealth shocks associated with the 2008 Great Recession, we explore how U.S. retail stores adjusted product offerings in response to the shocks in local markets. Evidence shows that stores reduce product variety and change product sizes besides lowering prices. Using a structural demand model, we quantify the net welfare impact of the price and assortment adjustments. On average, the consumer welfare losses from variety reduction more than offset the welfare gains from price reductions.
 
