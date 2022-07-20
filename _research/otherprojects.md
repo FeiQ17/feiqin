@@ -8,15 +8,21 @@ header:
   og_image: "research/epr.png"
 ---
 
-In this set of projects, I leverage geospatial event data to explore the microlevel dynamics of political violence. What role can violence at the local level serve in advancing broader political ends? What explains patterns of action and reaction between actors engaged in different types of political violence? How do the differing roles the UN peacekeepers play affect the likelihood that rebel fighters will target them?
+Besides my dissertation, I have been involved in several research projects related to food supply chain in the U.S. and China.
 
 ## Article
 
-Christian Oswald, Melanie Sauter, Sigrid Weber, and Rob Williams. "Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone." *International Studies Quarterly*.
+Ma, Meilin, H. Holly Wang, Yizhou Hua, Fei Qin, and Jing Yang. 2021. "African Swine Fever in China: Impacts, Responses, and Policy Implications." *Food Policy* 102: 102065. https://doi.org/10.1016/j.foodpol.2021.102065
 
-> Do rebels target civilians as part of the process of establishing control in their territories? This research note shows that transition periods after rebels gain territorial control are remarkably violent for civilians. Speaking to the civilian victimization and rebel governance literature, we investigate the immediate time period after rebels successfully capture and hold territory. We argue that rebels use violence to gain compliance in newly captured territories until they are able to build up local capacities and institutions for peaceful governance. To test this argument, we draw on methodological advances in integrating event data and combine multiple datasets to study patterns of violence perpetrated by the Revolutionary United Front in Sierra Leone from 1997-2001. The findings of our spatiotemporal analysis show that civilian targeting increases in the period after rebels capture territory from the government compared to areas without territorial takeover, suggesting that life under the roof of rebels is initially more dangerous for civilians.
+> African Swine Fever broke out in China in August 2018 and has caused a substantial loss to China’s hog industry. Pork is the dominant meat in the Chinese diet with its price being a critical component of China’s Consumer Price Index. In 2019, large increases in the pork price caused by the sharp reduction in pork supply incentivized the government to suppress the price by subsidizing large-scale hog farms. With an updated estimation of China’s meat demand, we argue that the ongoing policy interventions may not be the most efficient for achieving short-run reductions in the pork price. Subsidizing the production of chicken, a major substitute for pork and currently accounting for a relatively small share of meat consumption in China, could help suppress the pork price faster and at lower government costs. We estimate price dynamics and compute consumer surplus of multiple subsidy plans over a 30-month window from the third quarter of 2019 to the last quarter of 2021. Simulation outcomes suggest that allocating some subsidies from hog to chicken farms is likely to benefit consumers, producers, and the government. Our novel proposal of expanding production of a substitute meat to help lower the pork price after a large loss of the hog stock may be useful to other countries that suffer or may suffer from severe livestock losses due to animal epidemics.
 
-[Article](https://doi.org/10.1093/isq/sqaa009){: .btn--research} [Preprint](/files/pdf/research/Under the Roof of Rebels.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Under the Roof of Rebels SI.pdf){: .btn--research} [Replication Archive](https://doi.org/10.7910/DVN/BEKPWV){: .btn--research}
+[Article](https://doi.org/10.1016/j.foodpol.2021.102065){: .btn--research}
+
+Qin, Fei, Huanmin Hu, Prashant Loyalka, Sarah-Eve Dill, and Scott Rozelle. 2022. Stuck in the Middle School Rut: Can Anything Improve Academic Achievement in Rural Chinese Middle Schools?. *Journal of Development Effectiveness* https://doi.org/10.1080/19439342.2022.2067890
+
+> Academic achievement in middle schools in rural China remains poor for many students. This study examines whether programmes and interventions can improve academic achievement by reviewing rigorous experimental evaluations of nine programmes (11 interventions) on 47,480 rural middle school students in China. The results find none of the interventions improved academic achievement. Moreover, we find no evidence for heterogeneous treatment effects by student gender, age or previous academic achievement. These results may be due in part to the academically-demanding nature of the middle school curriculum, which is applied universally to students with varying levels of cognitive ability.
+
+[Article](https://doi.org/10.1080/19439342.2022.2067890){: .btn--research}
 
 ## Working papers
 
