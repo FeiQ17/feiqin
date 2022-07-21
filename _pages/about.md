@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: 
 title: "Welcome!"
 excerpt: "Fei Qin"
 author_profile: true
