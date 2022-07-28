@@ -15,7 +15,7 @@ The theme in my Ph.D. Dissertation can be summarized as firm's competitive strat
 
 The second part of my dissertation investigates retail stores' product assortment responses to the intensive price competition brought by Unit Pricing Regulation (UPR). Retail stores selling differentiated products are incentivized to obfuscate consumers by making direct price comparison complicated. UPR was introduced to help consumers make more informed decisions by requiring the store to display the unit price along with the item price for products on the shelf. Despite extensive research on UPR effects on consumers' perceptions and decisions, much less is known about the impacts on retail stores' price and non-price responses under UPR. Relying on the geographic variation in UPR implementation across states and using Nielsen scanner data, we empirically show that mass merchandizers remove products without changing prices, whereas grocery stores without same-chain stores not under UPR add brands and charge higher prices on average. Using a structural demand model to estimate consumer welfare changes, we find that, on average, consumer welfare falls for both retail formats, highlighting an unintended policy effect.
 
-Qin, Fei, and Meilin Ma. "Unit Pricing Regulation and Retailer Assortment: Evidence from the U.S. Yogurt Market."
+**Qin, Fei**, and Meilin Ma. "Unit Pricing Regulation and Retailer Assortment: Evidence from the U.S. Yogurt Market."
 
 [Working paper](http://dx.doi.org/10.2139/ssrn.4153006){: .btn--research}
 
