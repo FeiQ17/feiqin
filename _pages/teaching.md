@@ -11,5 +11,5 @@ You can view my complete teaching statement [here](https://drive.google.com/file
 
 ## Purdue University
 * AGEC 516: Mathematical Tools for Agricultural and Applied Economics (Fall 2021)
-  - Guest lecturer for one lecture. (handout can be found [here](https://drive.google.com/file/d/1yOkJ9GyNwSSK1r60BLy8xrRjFktfzeVE/view?usp=sharing))
+  - Guest lecturer for one lecture (handout can be found [here](https://drive.google.com/file/d/1yOkJ9GyNwSSK1r60BLy8xrRjFktfzeVE/view?usp=sharing))。
   - Teaching assistant
