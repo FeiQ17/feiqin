@@ -12,7 +12,7 @@ You can view my complete teaching statement [here](https://drive.google.com/file
 ## Purdue University
 * Teaching Assistant and Guest Lecturer, Fall 2021
   - AGEC 516: Mathematical Tools for Agricultural and Applied Economics
-  - Course handout can be found [here](https://drive.google.com/file/d/1yOkJ9GyNwSSK1r60BLy8xrRjFktfzeVE/view?usp=sharing/AGEC516_Handout4_2021.pdf))。
+  - Course handout can be found [here](https://drive.google.com/file/d/1yOkJ9GyNwSSK1r60BLy8xrRjFktfzeVE/view?usp=sharing/AGEC516_Handout4_2021.pdf).
 
 * Student Tutor, 2021, 2022
   - "HelpDesk" of Graduate Student Organization in the Department of Agricultural Economics
