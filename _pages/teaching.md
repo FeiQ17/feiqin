@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and Mentoring"
 permalink: teaching/
 author_profile: true
 ---
@@ -10,6 +10,12 @@ At Purdue, I have gained valuable experience by serving as a teaching assistant 
 You can view my complete teaching statement [here](https://drive.google.com/file/d/1QZZ2kVWqwnk_MuXV38TaQJmbo2MgPN8H/view?usp=sharing/FQin_Teaching_Statement_220918.pdf).
 
 ## Purdue University
-* AGEC 516: Mathematical Tools for Agricultural and Applied Economics (Fall 2021)
-  - Guest lecturer for one lecture (handout can be found [here](https://drive.google.com/file/d/1yOkJ9GyNwSSK1r60BLy8xrRjFktfzeVE/view?usp=sharing/AGEC516_Handout4_2021.pdf))。
-  - Teaching assistant
+* Teaching Assistant and Guest Lecturer, Fall 2021
+  - AGEC 516: Mathematical Tools for Agricultural and Applied Economics
+  - Course handout can be found [here](https://drive.google.com/file/d/1yOkJ9GyNwSSK1r60BLy8xrRjFktfzeVE/view?usp=sharing/AGEC516_Handout4_2021.pdf))。
+
+* Student Tutor, 2021, 2022
+  - "HelpDesk" of Graduate Student Organization in the Department of Agricultural Economics
+
+* Student Mentor, 2021
+  - Graduate Student Organization in the Department of Agricultural Economics
