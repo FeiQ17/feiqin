@@ -51,7 +51,7 @@ Ma, Meilin, Jayson L. Lusk, and **Fei Qin**. "Retailers’ Product Assortment De
 
 ## Work in progress
 
-Balagtas, Joseph, Joseph Cooper, Patrick McLaughlin, and **Fei Qin**. "Consumer Demand for Food at Home and Food Away from Home and Implications for Derived Demand for Agricultural Commodities – Understanding Economic Linkages During the Pandemic-Era Food Markets."
+Balagtas, Joseph, Joseph Cooper, Patrick McLaughlin, and **Fei Qin**. "Consumer Demand for Food at Home and Food Away from Home: Understanding Economic Linkages During the Pandemic"
 
 > One of the most striking changes in food demand in the United States over the past sixty years is the steady shift of household expenditure away from Food at Home (FAH) and towards Food Away from Home (FAFH). In the decade prior to the COVID-19 pandemic, FAFH’s share of food expenditure surpassed that of FAH, reaching 55% in 2019. Yet economic research on FAFH and the interaction of FAFH and FAH has been limited, even as new data sets and methods have allowed a rich understanding of consumer and seller behavior in FAH markets. Combining IRI scanner data for meat sales in grocery stores with data for FAFH expenditure, we posit and estimate an Inverse Almost Ideal Demand System model for at-home meat consumption that incorporates FAFH expenditure as a demand and supply shifter. We exploit the unique disruptions to the food service sector created by the onset of the COVID-19 pandemic in Spring 2020. We quantify substitution between FAFH and (meat) FAH, and also use the model to disentangle the contribution of supply and demand shocks to observed increases in grocery meat prices the first year of the pandemic.
 
