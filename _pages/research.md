@@ -35,7 +35,7 @@ Ma, Meilin, H. Holly Wang, Yizhou Hua, **Fei Qin**, and Jing Yang. 2021. "Africa
 
 [Article](https://doi.org/10.1016/j.foodpol.2021.102065){: .btn--research}
 
-**Qin, Fei**, Huanmin Hu, Prashant Loyalka, Sarah-Eve Dill, and Scott Rozelle. 2022. "Stuck in the Middle School Rut: Can Anything Improve Academic Achievement in Rural Chinese Middle Schools?." *Journal of Development Effectiveness* [https://doi.org/10.1080/19439342.2022.2067890](https://doi.org/10.1080/19439342.2022.2067890)
+**Qin, Fei**, Huanmin Hu, Prashant Loyalka, Sarah-Eve Dill, and Scott Rozelle. 2022. "Stuck in the Middle School Rut: Can Anything Improve Academic Achievement in Rural Chinese Middle Schools?." *Journal of Development Effectiveness* 14(4): 306-39 [https://doi.org/10.1080/19439342.2022.2067890](https://doi.org/10.1080/19439342.2022.2067890)
 
 > Academic achievement in middle schools in rural China remains poor for many students. This study examines whether programmes and interventions can improve academic achievement by reviewing rigorous experimental evaluations of nine programmes (11 interventions) on 47,480 rural middle school students in China. The results find none of the interventions improved academic achievement. Moreover, we find no evidence for heterogeneous treatment effects by student gender, age or previous academic achievement. These results may be due in part to the academically-demanding nature of the middle school curriculum, which is applied universally to students with varying levels of cognitive ability.
 
