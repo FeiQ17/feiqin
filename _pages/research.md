@@ -51,7 +51,7 @@ Ma, Meilin, H. Holly Wang, Yizhou Hua, **Fei Qin**, and Jing Yang. 2021. "Africa
 
 ## Working paper
 
-Ma, Meilin, Jayson L. Lusk, and **Fei Qin**. "Retailers’ Product Assortment Decisions during the Great Recession: Evidence from the U.S. Yogurt Market" Available at SSRN: [https://ssrn.com/abstract=3927353](https://ssrn.com/abstract=3927353)
+Ma, Meilin, **Fei Qin**, and Jayson L. Lusk. "Retailers’ Product Assortment Decisions during the Great Recession: Evidence from the U.S. Yogurt Market" Available at SSRN: [https://ssrn.com/abstract=3927353](https://ssrn.com/abstract=3927353)
 
 > Despite extensive research on retailers’ price responses to demand shocks, much less is known about their non-price adjustments. Using heterogeneity in timing, location, and magnitude of income and wealth shocks associated with the 2008 Great Recession, we explore how U.S. retail stores adjusted product offerings in response to the shocks in local markets. Evidence shows that stores reduce product variety and change product sizes besides lowering prices. Using a structural demand model, we quantify the net welfare impact of the price and assortment adjustments. On average, the consumer welfare losses from variety reduction more than offset the welfare gains from price reductions.
 
