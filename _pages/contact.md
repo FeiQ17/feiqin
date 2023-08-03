@@ -5,6 +5,6 @@ permalink: contact/
 author_profile: true
 ---
 
-* **Address**: 403 West State Street, Krannert Building, Room #603, West Lafayette, IN, 47907
-* **Email**: qin132@purdue.edu
+* **Address**: Morrison School of Agribusiness, 7231 E. Sonoran Arroyo Mall, Suite 230, Mesa, AZ 85212
+* **Email**: fqin6@asu.edu
 * **TEL**: (765) 409-3381
