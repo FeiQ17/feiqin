@@ -11,4 +11,4 @@ I am Fei Qin, and I obtained my Ph. D. in Agricultural Economics from the [Depar
 
 My primary research interests lie in the intersection of agricultural/food economics, industrial organizations, and development economics. Under this broad scope, I am particularly interested in two areas: 1) organizations (e.g., manufacturers and retailers) in the food sector and their strategic actions, especially the non-price strategies (e.g., product assortment), and 2) the impacts of policies/regulations/local shocks on the firm’s competing strategies. The countries I have been focused on are the United States and China. I have particularly solid experience in policy evaluation and analyzing large datasets such as the retailer and household scanner data.
 
-Starting in August 2023, I will be joining the [Morrison School of Agribusiness](https://wpcarey.asu.edu/agribusiness-degrees) at Arizona State University as a postdoctoral researcher.
+Starting in August 2023, I will be joining the [Morrison School of Agribusiness](https://wpcarey.asu.edu/agribusiness-degrees) at Arizona State University as a postdoctoral research scholar.
