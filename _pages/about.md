@@ -11,5 +11,5 @@ I am Fei Qin, and I am a postdoctoral research scholar under the supervision of 
 
 My primary research interests lie in the intersection of agricultural/food economics, industrial organizations, and development economics. Under this broad scope, I am particularly interested in two areas: 1) organizations (e.g., manufacturers and retailers) in the food sector and their strategic actions, and 2) the impacts of policy/regulation shocks on the firm’s competing strategies, and the effects on consumer welfare. I have particularly solid experience in policy evaluation and analyzing large datasets such as the retailer and household scanner data.
 
-I am on the 2023-2024 job market, and available for interviews. Please contact me at [fqin6@asu.edu](fqin6@asu.edu).
+I am on the 2023-2024 job market, and available for interviews. Please contact me at [fqin6@asu.edu](mailto:fqin6@asu.edu).
 
