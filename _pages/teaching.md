@@ -9,6 +9,11 @@ At Purdue, I have gained valuable experience by serving as a teaching assistant 
 
 You can view my complete teaching statement [here](https://drive.google.com/file/d/1MpCRGRcImwNp8ew5eamMXIKRpdvnWksT/view?usp=sharing).
 
+
+## Arizona State University
+* Instructor, Summer 2024
+  - AGB 302: International Management and Agribusiness (online)
+
 ## Purdue University
 * Teaching Assistant and Guest Lecturer, Fall 2021
   - AGEC 516: Mathematical Tools for Agricultural and Applied Economics
