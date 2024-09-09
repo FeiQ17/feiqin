@@ -5,6 +5,6 @@ permalink: contact/
 author_profile: true
 ---
 
-* **Address**: Morrison School of Agribusiness, 7231 E. Sonoran Arroyo Mall, 230G, Mesa, AZ 85212
-* **Email**: fqin6@asu.edu
+* **Address**: Department of Agricultural Economics, Purdue University, 403 Mitch Daniels Blvd, Krannert Building, Room # 651, West Lafayette, Indiana 47907
+* **Email**: qin132@purdue.edu
 * **TEL**: (765) 409-3381
