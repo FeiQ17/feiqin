@@ -29,6 +29,12 @@ Besides my dissertation, I have been involved in several research projects relat
 
 ## Published papers
 
+Ma, Meilin, **Fei Qin**, and Jayson L Lusk. 2024. "Retail Assortment under Demand Shocks: Evidence from the US Yogurt Market" *Journal of the Agricultural and Applied Economics Association* [https://doi.org/10.1002/jaa2.130](https://doi.org/10.1002/jaa2.130)
+
+> Despite extensive research on retailers' price responses to demand shocks, much less is known about their non-price responses. Using heterogeneity in timing, location, and magnitude of income and wealth shocks associated with the 2008 Great Recession, we explore how US retail stores adjusted product offerings under local demand shocks. We find that stores offer fewer products and varieties besides lowering prices. Using a structural demand model, we quantify the net welfare impact of the price and assortment adjustments. On average, the consumer welfare losses from variety reduction more than offset the welfare gains from price reductions.
+
+[Article](https://doi.org/10.1002/jaa2.130){: .btn--research}
+
 Balagtas, Joseph, Joseph Cooper, Patrick McLaughlin, and **Fei Qin**. 2023. "Consumer Demand for Food at Home and Food away from Home: Understanding Economic Linkages during the Pandemic" *Applied Economic Perspectives and Policy* [https://doi.org/10.1002/aepp.13361](https://doi.org/10.1002/aepp.13361)
 
 > Household food expenditure has shifted away from Food at Home (FAH) and towards Food Away from Home (FAFH). Prior to the COVID-19 pandemic, FAFH's share of food expenditure surpassed that of FAH, reaching 55% in 2019. Yet economic research on FAFH and the interaction of FAFH and FAH has been limited. Combining scanner data for meat sales in grocery stores with data for FAFH expenditure, we estimate a model of demand for at-home meat, incorporating FAFH expenditure as a demand shifter. We quantify substitution between FAFH expenditure and FAH meat and quantify the impact of the COVID-19 disruptions to the food service sector on retail prices of FAH meat.
@@ -46,16 +52,5 @@ Ma, Meilin, H. Holly Wang, Yizhou Hua, **Fei Qin**, and Jing Yang. 2021. "Africa
 > African Swine Fever broke out in China in August 2018 and has caused a substantial loss to China’s hog industry. Pork is the dominant meat in the Chinese diet with its price being a critical component of China’s Consumer Price Index. In 2019, large increases in the pork price caused by the sharp reduction in pork supply incentivized the government to suppress the price by subsidizing large-scale hog farms. With an updated estimation of China’s meat demand, we argue that the ongoing policy interventions may not be the most efficient for achieving short-run reductions in the pork price. Subsidizing the production of chicken, a major substitute for pork and currently accounting for a relatively small share of meat consumption in China, could help suppress the pork price faster and at lower government costs. We estimate price dynamics and compute consumer surplus of multiple subsidy plans over a 30-month window from the third quarter of 2019 to the last quarter of 2021. Simulation outcomes suggest that allocating some subsidies from hog to chicken farms is likely to benefit consumers, producers, and the government. Our novel proposal of expanding production of a substitute meat to help lower the pork price after a large loss of the hog stock may be useful to other countries that suffer or may suffer from severe livestock losses due to animal epidemics.
 
 [Article](https://doi.org/10.1016/j.foodpol.2021.102065){: .btn--research}
-
-
-
-## Working paper
-
-Ma, Meilin, **Fei Qin**, and Jayson L. Lusk. "Retailers’ Product Assortment Decisions during the Great Recession: Evidence from the U.S. Yogurt Market" Available at SSRN: [https://ssrn.com/abstract=3927353](https://ssrn.com/abstract=3927353)
-
-> Despite extensive research on retailers’ price responses to demand shocks, much less is known about their non-price adjustments. Using heterogeneity in timing, location, and magnitude of income and wealth shocks associated with the 2008 Great Recession, we explore how U.S. retail stores adjusted product offerings in response to the shocks in local markets. Evidence shows that stores reduce product variety and change product sizes besides lowering prices. Using a structural demand model, we quantify the net welfare impact of the price and assortment adjustments. On average, the consumer welfare losses from variety reduction more than offset the welfare gains from price reductions.
-
-[Working Paper](https://ssrn.com/abstract=3927353){: .btn--research}
-
 
 My complete research statement can be found [here](https://drive.google.com/file/d/1K2-5XW0r1-5gvZlYFEYni__wjC_djk9P/view?usp=sharing)
