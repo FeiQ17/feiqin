@@ -53,4 +53,3 @@ Ma, Meilin, H. Holly Wang, Yizhou Hua, **Fei Qin**, and Jing Yang. 2021. "Africa
 
 [Article](https://doi.org/10.1016/j.foodpol.2021.102065){: .btn--research}
 
-My complete research statement can be found [here](https://drive.google.com/file/d/1K2-5XW0r1-5gvZlYFEYni__wjC_djk9P/view?usp=sharing)
